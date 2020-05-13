@@ -27,4 +27,4 @@ To ensure that you are using a correct kernel, type inside the box:
 ```shell script
 uname -r
 ```
-If you ```5.6.10-1.el7.elrepo.x86_64``` in the output, it's all correct.
+If you see ```5.6.10-1.el7.elrepo.x86_64``` in the output, it's all correct.
